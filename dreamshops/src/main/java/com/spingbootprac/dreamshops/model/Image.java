@@ -22,6 +22,7 @@ public class Image {
 
     @Lob
     private Blob image;
+    private String name;
     private String downloadUrl;
 
 
